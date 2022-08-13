@@ -29,13 +29,13 @@
     "dev": "webpack --watch"
   },
   "dependencies": {
-    "dayjs": "^1.11.0",
-    "moment": "^2.29.2"
+    "dayjs": "^1.11.5",
+    "moment": "^2.29.4"
   },
   "devDependencies": {
     "unplugin-moment-to-dayjs": "workspace:*",
-    "webpack": "5.72.0",
-    "webpack-cli": "4.9.2"
+    "webpack": "5.74.0",
+    "webpack-cli": "4.10.0"
   },
   "peerDependencies": {
     "dayjs": "^1.11.0"

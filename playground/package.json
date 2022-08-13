@@ -5,7 +5,7 @@
     "build": "vite build"
   },
   "dependencies": {
-    "antd": "^4.19.5",
+    "antd": "^4.22.4",
     "moment": "latest",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
@@ -14,8 +14,8 @@
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "@vitejs/plugin-react": "^1.3.0",
-    "dayjs": "^1.11.0",
-    "vite": "^2.9.1",
-    "unplugin-moment-to-dayjs": "workspace:*"
+    "dayjs": "^1.11.5",
+    "unplugin-moment-to-dayjs": "workspace:*",
+    "vite": "^3.0.7"
   }
 }
