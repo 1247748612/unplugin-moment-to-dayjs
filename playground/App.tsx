@@ -40,11 +40,11 @@ const App = () => {
 
       </Select>
       <DatePicker onChange={onChange} />
-      <DatePicker.MonthPicker onChange={onChange} />
-      <DatePicker.QuarterPicker onChange={onChange} />
+      <DatePicker picker="month" onChange={onChange} />
+      <DatePicker picker="quarter" onChange={onChange} />
       <DatePicker.RangePicker onChange={onChange} />
-      <DatePicker.WeekPicker onChange={onChange} />
-      <DatePicker.YearPicker onChange={onChange} />
+      <DatePicker picker="week" onChange={onChange} />
+      <DatePicker picker="year" onChange={onChange} />
       <Calendar onChange={onChange} ></Calendar>
     </ConfigProvider>
   </div>
