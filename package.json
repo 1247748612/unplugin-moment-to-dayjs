@@ -96,7 +96,8 @@
     "fast-glob": "^3.2.11",
     "nodemon": "^2.0.19",
     "rimraf": "^3.0.2",
-    "rollup": "^2.77.3"
+    "rollup": "^2.77.3",
+    "unplugin-moment-to-dayjs": "link:"
   },
   "peerDependencies": {
     "dayjs": "^1.11.0"
