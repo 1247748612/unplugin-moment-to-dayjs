@@ -1,8 +1,6 @@
 {
-  "env": {
-    "jest": true
-  },
-  "extends": ["@antfu"],
-  "plugins": ["jest"],
+  "extends": [
+    "@antfu"
+  ],
   "rules": {}
 }
