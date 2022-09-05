@@ -63,7 +63,6 @@
   ],
   "scripts": {
     "build": "tsup",
-    "playground": "pnpm --filter ./playground run  build",
     "build:examples": "pnpm --filter ./examples/* run build",
     "dev:examples": "pnpm --filter ./examples/* run dev",
     "dev": "tsup --watch src",
