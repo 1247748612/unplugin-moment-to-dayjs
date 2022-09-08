@@ -4,7 +4,7 @@
 
 **Replace moment with dayjs, support use in vite, rollup, webpack**
 
-## Install
+## Installation
 
 ```bash
 npm i unplugin-moment-to-dayjs
